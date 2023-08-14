@@ -1,0 +1,8 @@
+﻿  A7.c
+C:\Users\GaRiS\source\repos\wxwxGLOBAL\wx\A7.c(10,21): warning C4244: функция: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Создание кода
+  Создание кода завершено
+  8 of 8 functions (100.0%) were compiled.
+    1 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  wx.vcxproj -> C:\Users\GaRiS\source\repos\wxwxGLOBAL\Release\wxwx.exe
